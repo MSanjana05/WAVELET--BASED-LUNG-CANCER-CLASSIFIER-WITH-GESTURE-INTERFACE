@@ -61,4 +61,24 @@ It aims to support radiologists and clinicians in making **more informed and tim
 ---
 
 ## 📂 Folder Structure
+.
+├── Lung_Cancer_Prediction.ipynb
+├── README.md
+├── dataset
+│ ├── train
+│ │ ├── adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+│ │ ├── large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+│ │ ├── normal
+│ │ └── squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+│ ├── test
+│ │ ├── adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+│ │ ├── large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+│ │ ├── normal
+│ │ └── squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+│ └── valid
+│ ├── adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib
+│ ├── large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa
+│ ├── normal
+│ └── squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
+└── best_model.hdf5
 
