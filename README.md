@@ -74,7 +74,7 @@ After training and evaluating the lung cancer prediction model, the following pe
 The model demonstrated strong generalization performance across unseen CT scan images, confirming its reliability in classifying lung cancer stages effectively.
 
 ## 🙏 Acknowledgements
-We acknowledge and sincerely thank the contributors of the Chest CT Scan Images Dataset available on [Kaggle](https://www.kaggle.com/datasets/mohamedhanyyy/chest-ctscan-images) for providing the dataset used in this project.
+I acknowledge and sincerely thank the contributors of the Chest CT Scan Images Dataset available on [Kaggle](https://www.kaggle.com/datasets/mohamedhanyyy/chest-ctscan-images) for providing the dataset used in this project.
 Their efforts made it possible to develop, train, and evaluate this lung cancer classification system effectively.
 ## 📄 License
 This project is for academic and learning purposes only.
